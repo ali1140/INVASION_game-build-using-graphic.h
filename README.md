@@ -1,5 +1,5 @@
-# 🚧 INVASION_game-build-using-graphic.h
+# 👾 INVASION Game
 
-> **Catatan:** File README ini bersifat sementara. Dokumentasi lengkap dan *source code* sedang dalam tahap perapihan dan akan segera diperbarui.
+Game klasik yang dibangun menggunakan bahasa C/C++ dan library graphics.h (menggunakan Code::Blocks). Termasuk fitur antarmuka visual dan efek suara.
 
-Project ini merupakan bagian dari portofolio.
+**Teknologi:** C / C++, graphics.h

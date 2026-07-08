@@ -15,7 +15,12 @@
 Di bawah ini adalah rekaman *gameplay* nyata dari INVASION. Anda dapat melihat mekanik pergerakan, penembakan peluru (*machine gun*), peluncuran rudal, serta _sound effect_ saat permainan berlangsung.
 
 
-https://github.com/user-attachments/assets/e4cf1d4c-a46e-4bcf-8a50-b59d7bb8e8e9
+
+
+https://github.com/user-attachments/assets/b1393997-a294-4581-8fd2-ef460983302e
+
+
+
 ---
 
 

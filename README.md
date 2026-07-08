@@ -43,23 +43,23 @@ Visual dalam INVASION menggabungkan pesona klasik *Pixel Art* dengan komputasi m
 Pemain mengendalikan jet tempur utama yang dapat menembakkan senapan mesin (klik kiri) atau meluncurkan misil jarak jauh (klik kanan). Terdapat juga kotak *buff* untuk memulihkan nyawa (Hati) dan menambah amunisi rudal.
 
 <p align="center">
-  <img src="iniplayerr.jpeg" width="200" alt="Player Plane">
-  <img src="health2.jpeg" width="100" alt="Heal Buff">
-  <img src="buff2.jpeg" width="100" alt="Missile Buff">
+  <img src="https://github.com/ali1140/INVASION_game-build-using-graphic.h/raw/main/iniplayerr.jpeg" width="200" alt="Player Plane">
+  <img src="https://github.com/ali1140/INVASION_game-build-using-graphic.h/raw/main/health2.jpeg" width="100" alt="Heal Buff">
+  <img src="https://github.com/ali1140/INVASION_game-build-using-graphic.h/raw/main/buff2.jpeg" width="100" alt="Missile Buff">
 </p>
 
 ### 2. Armada Alien (Enemies)
 Pesawat alien akan memunculkan rentetan serangan dengan pola pergerakan dan kecepatan yang ter-acak (*randomized*). Terdapat dua tipe pesawat alien utama (*Pixel Art*) dengan bentuk yang berbeda:
 
 <p align="center">
-  <img src="inimusuhh.jpeg" width="200" alt="Alien Plane 1">
-  <img src="inimusuh2.jpeg" width="200" alt="Alien Plane 2">
+  <img src="https://github.com/ali1140/INVASION_game-build-using-graphic.h/raw/main/inimusuhh.jpeg" width="200" alt="Alien Plane 1">
+  <img src="https://github.com/ali1140/INVASION_game-build-using-graphic.h/raw/main/inimusuh2.jpeg" width="200" alt="Alien Plane 2">
 </p>
 
 ### 3. Proses Desain di Pixelart.com
 Gambar di bawah ini merupakan ilustrasi proses pembuatan karakter dan pesawat di aplikasi web pihak ketiga (pixelart.com) sebelum diekspor dan digunakan dalam kode permainan:
 <div align="center">
-  <img src="assets/journal_1.png" width="600" alt="Pixel Art Process">
+  <img src="https://github.com/ali1140/INVASION_game-build-using-graphic.h/raw/main/assets/journal_1.png" width="600" alt="Pixel Art Process">
 </div>
 
 ---

@@ -33,11 +33,11 @@ Hal yang membuat proyek ini istimewa adalah pengembangannya yang murni menggunak
 
 ---
 
-## 🎨 Seni Grafis & Rendering Geometris
-Berbeda dengan *game* modern yang sekadar memuat (*load*) berkas gambar (*sprite* `.png` atau `.jpg`), seluruh bentuk karakter dan musuh dalam INVASION digambar secara manual melalui kalkulasi **titik koordinat spasial**!
+## 🎨 Seni Grafis & Desain Pixel Art
+Visual dalam INVASION menggabungkan pesona klasik *Pixel Art* dengan komputasi matematis *graphics.h*:
 
-- Pengembang merepresentasikan pesawat tempur sebagai gabungan presisi dari banyak garis menggunakan fungsi `line(x1, y1, x2, y2)`.
-- Koordinat titik dipetakan terlebih dahulu menggunakan alat bantu seperti GeoGebra untuk menemukan relasi geometris yang akurat sebelum di- *hardcode* ke dalam C++.
+- **Karakter & Musuh (Pixel Art):** Aset visual seperti pesawat manusia (pemain), armada alien, dan kotak *buff* dirancang menggunakan perangkat lunak pihak ketiga khusus *Pixel Art*. Aset ini kemudian dimuat ke dalam *game* menggunakan fungsi `readimagefile` dan dirender ulang ke koordinat dinamis layar permainan secara berulang menggunakan kombinasi fungsi memori `getimage` dan `putimage`.
+- **Amunisi & Proyektil (Geometri):** Khusus untuk peluru (kaliber .50) dan desain rudal pelacak, pengembang merepresentasikannya sebagai gabungan presisi dari banyak garis menggunakan fungsi bawaan `line(x1, y1, x2, y2)`. Koordinat titik ini dipetakan terlebih dahulu menggunakan bantuan **GeoGebra** untuk menemukan relasi geometris yang akurat sebelum di- *hardcode* ke dalam C++.
 
 ### 1. Pesawat Manusia (Player) & Senjata
 Pemain mengendalikan jet tempur utama yang dapat menembakkan senapan mesin (klik kiri) atau meluncurkan misil jarak jauh (klik kanan).
@@ -48,7 +48,7 @@ Pemain mengendalikan jet tempur utama yang dapat menembakkan senapan mesin (klik
 </p>
 
 ### 2. Armada Alien (Enemies)
-Pesawat alien dibangun menggunakan teknik yang sama. Mereka akan memunculkan rentetan serangan dengan pola pergerakan dan kecepatan yang ter-acak (*randomized*). Terdapat dua tipe pesawat alien utama dengan bentuk geometri berbeda:
+Pesawat alien akan memunculkan rentetan serangan dengan pola pergerakan dan kecepatan yang ter-acak (*randomized*). Terdapat dua tipe pesawat alien utama (*Pixel Art*) dengan bentuk yang berbeda:
 
 <p align="center">
   <img src="assets/game_2.png" width="300" alt="Alien Plane 1">

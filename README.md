@@ -42,26 +42,20 @@ Visual dalam INVASION menggabungkan pesona klasik *Pixel Art* dengan komputasi m
 ### 1. Pesawat Manusia (Player) & Kotak Bantuan (Buff)
 Pemain mengendalikan jet tempur utama yang dapat menembakkan senapan mesin (klik kiri) atau meluncurkan misil jarak jauh (klik kanan). Terdapat juga kotak *buff* untuk memulihkan nyawa (Hati) dan menambah amunisi rudal.
 
-
-<p align="center">
-  <img width="266" height="367" alt="iniplayerr" src="https://github.com/user-attachments/assets/82b4a85a-6002-4de6-863c-4cce52ba605a" />
-  <img src="https://github.com/ali1140/INVASION_game-build-using-graphic.h/raw/main/health2.jpeg" width="100" alt="Heal Buff">
-  <img src="https://github.com/ali1140/INVASION_game-build-using-graphic.h/raw/main/buff2.jpeg" width="100" alt="Missile Buff">
-</p>
+![Player Plane](https://github.com/user-attachments/assets/82b4a85a-6002-4de6-863c-4cce52ba605a)
+![Heal Buff](https://github.com/ali1140/INVASION_game-build-using-graphic.h/raw/main/health2.jpeg)
+![Missile Buff](https://github.com/ali1140/INVASION_game-build-using-graphic.h/raw/main/buff2.jpeg)
 
 ### 2. Armada Alien (Enemies)
 Pesawat alien akan memunculkan rentetan serangan dengan pola pergerakan dan kecepatan yang ter-acak (*randomized*). Terdapat dua tipe pesawat alien utama (*Pixel Art*) dengan bentuk yang berbeda:
 
-<p align="center">
-  <img width="349" height="293" alt="inimusuhh" src="https://github.com/user-attachments/assets/6d64a535-2b06-4612-ad5a-41f7e8f8a464" />
-  <img src="https://github.com/ali1140/INVASION_game-build-using-graphic.h/raw/main/inimusuh2.jpeg" width="200" alt="Alien Plane 2">
-</p>
+![Alien Plane 1](https://github.com/user-attachments/assets/6d64a535-2b06-4612-ad5a-41f7e8f8a464)
+![Alien Plane 2](https://github.com/ali1140/INVASION_game-build-using-graphic.h/raw/main/inimusuh2.jpeg)
 
 ### 3. Proses Desain di Pixelart.com
 Gambar di bawah ini merupakan ilustrasi proses pembuatan karakter dan pesawat di aplikasi web pihak ketiga (pixelart.com) sebelum diekspor dan digunakan dalam kode permainan:
-<div align="center">
-  <img src="https://github.com/ali1140/INVASION_game-build-using-graphic.h/raw/main/assets/journal_1.png" width="600" alt="Pixel Art Process">
-</div>
+
+![Pixel Art Process](assets/journal_1.png)
 
 ---
 

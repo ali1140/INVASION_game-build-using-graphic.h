@@ -1,4 +1,3 @@
-<img width="266" height="367" alt="iniplayerr" src="https://github.com/user-attachments/assets/15ab1510-0204-4bf8-8a30-cba3c4192b87" />
 <div align="center">
 
 # 👾 INVASION: Retro C++ Space Shooter
@@ -54,7 +53,7 @@ Pemain mengendalikan jet tempur utama yang dapat menembakkan senapan mesin (klik
 Pesawat alien akan memunculkan rentetan serangan dengan pola pergerakan dan kecepatan yang ter-acak (*randomized*). Terdapat dua tipe pesawat alien utama (*Pixel Art*) dengan bentuk yang berbeda:
 
 <p align="center">
-  <img src="https://github.com/ali1140/INVASION_game-build-using-graphic.h/raw/main/inimusuhh.jpeg" width="200" alt="Alien Plane 1">
+  <img width="349" height="293" alt="inimusuhh" src="https://github.com/user-attachments/assets/6d64a535-2b06-4612-ad5a-41f7e8f8a464" />
   <img src="https://github.com/ali1140/INVASION_game-build-using-graphic.h/raw/main/inimusuh2.jpeg" width="200" alt="Alien Plane 2">
 </p>
 

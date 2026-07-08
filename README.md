@@ -39,21 +39,28 @@ Visual dalam INVASION menggabungkan pesona klasik *Pixel Art* dengan komputasi m
 - **Karakter & Musuh (Pixel Art):** Aset visual seperti pesawat manusia (pemain), armada alien, dan kotak *buff* dirancang menggunakan perangkat lunak pihak ketiga khusus *Pixel Art*. Aset ini kemudian dimuat ke dalam *game* menggunakan fungsi `readimagefile` dan dirender ulang ke koordinat dinamis layar permainan secara berulang menggunakan kombinasi fungsi memori `getimage` dan `putimage`.
 - **Amunisi & Proyektil (Geometri):** Khusus untuk peluru (kaliber .50) dan desain rudal pelacak, pengembang merepresentasikannya sebagai gabungan presisi dari banyak garis menggunakan fungsi bawaan `line(x1, y1, x2, y2)`. Koordinat titik ini dipetakan terlebih dahulu menggunakan bantuan **GeoGebra** untuk menemukan relasi geometris yang akurat sebelum di- *hardcode* ke dalam C++.
 
-### 1. Pesawat Manusia (Player) & Senjata
-Pemain mengendalikan jet tempur utama yang dapat menembakkan senapan mesin (klik kiri) atau meluncurkan misil jarak jauh (klik kanan).
+### 1. Pesawat Manusia (Player) & Kotak Bantuan (Buff)
+Pemain mengendalikan jet tempur utama yang dapat menembakkan senapan mesin (klik kiri) atau meluncurkan misil jarak jauh (klik kanan). Terdapat juga kotak *buff* untuk memulihkan nyawa (Hati) dan menambah amunisi rudal.
 
 <p align="center">
-  <img src="assets/game_1.png" width="300" alt="Player Plane">
-  <img src="assets/game_4.png" width="300" alt="Missile Weapon">
+  <img src="iniplayerr.jpeg" width="200" alt="Player Plane">
+  <img src="health2.jpeg" width="100" alt="Heal Buff">
+  <img src="buff2.jpeg" width="100" alt="Missile Buff">
 </p>
 
 ### 2. Armada Alien (Enemies)
 Pesawat alien akan memunculkan rentetan serangan dengan pola pergerakan dan kecepatan yang ter-acak (*randomized*). Terdapat dua tipe pesawat alien utama (*Pixel Art*) dengan bentuk yang berbeda:
 
 <p align="center">
-  <img src="assets/game_2.png" width="300" alt="Alien Plane 1">
-  <img src="assets/game_3.png" width="300" alt="Alien Plane 2">
+  <img src="inimusuhh.jpeg" width="200" alt="Alien Plane 1">
+  <img src="inimusuh2.jpeg" width="200" alt="Alien Plane 2">
 </p>
+
+### 3. Proses Desain di Pixelart.com
+Gambar di bawah ini merupakan ilustrasi proses pembuatan karakter dan pesawat di aplikasi web pihak ketiga (pixelart.com) sebelum diekspor dan digunakan dalam kode permainan:
+<div align="center">
+  <img src="assets/journal_1.png" width="600" alt="Pixel Art Process">
+</div>
 
 ---
 

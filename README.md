@@ -13,15 +13,13 @@
 
 ## 🎥 Video Demonstrasi Gameplay
 Di bawah ini adalah rekaman *gameplay* nyata dari INVASION. Anda dapat melihat mekanik pergerakan, penembakan peluru (*machine gun*), peluncuran rudal, serta _sound effect_ saat permainan berlangsung.
-<div align="center">
-  <video src="https://github.com/ali1140/INVASION_game-build-using-graphic.h/raw/main/assets/invasion_demo.mp4" width="600" controls="controls"></video>
-  
-  *(Jika video tidak dapat diputar secara langsung, silakan klik tautan di bawah ini)*
-  <br>
-  👉 **[Tonton Video Demonstrasi](https://github.com/ali1140/INVASION_game-build-using-graphic.h/raw/main/assets/invasion_demo.mp4)**
-</div>
 
+
+https://github.com/user-attachments/assets/e4cf1d4c-a46e-4bcf-8a50-b59d7bb8e8e9
 ---
+
+
+
 
 ## 📖 Latar Belakang & Konsep
 **INVASION** adalah permainan tembak-menembak bernuansa luar angkasa (*space shooter*) yang menceritakan tentang pertempuran antara armada bumi melawan koloni alien yang mencoba melakukan invasi besar-besaran.

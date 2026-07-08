@@ -42,10 +42,10 @@ Visual dalam INVASION menggabungkan pesona klasik *Pixel Art* dengan komputasi m
 
 ### 1. Pesawat Manusia (Player) & Kotak Bantuan (Buff)
 Pemain mengendalikan jet tempur utama yang dapat menembakkan senapan mesin (klik kiri) atau meluncurkan misil jarak jauh (klik kanan). Terdapat juga kotak *buff* untuk memulihkan nyawa (Hati) dan menambah amunisi rudal.
-<img width="266" height="367" alt="iniplayerr" src="https://github.com/user-attachments/assets/82b4a85a-6002-4de6-863c-4cce52ba605a" />
+
 
 <p align="center">
-  <img src="https://github.com/ali1140/INVASION_game-build-using-graphic.h/raw/main/iniplayerr.jpeg" width="200" alt="Player Plane">
+  <img width="266" height="367" alt="iniplayerr" src="https://github.com/user-attachments/assets/82b4a85a-6002-4de6-863c-4cce52ba605a" />
   <img src="https://github.com/ali1140/INVASION_game-build-using-graphic.h/raw/main/health2.jpeg" width="100" alt="Heal Buff">
   <img src="https://github.com/ali1140/INVASION_game-build-using-graphic.h/raw/main/buff2.jpeg" width="100" alt="Missile Buff">
 </p>
